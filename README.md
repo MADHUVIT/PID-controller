@@ -2,11 +2,11 @@
 <h3>PID controller for a 1st order system</h3>
 <p>
 
-<P>Trnasfer Function(H(S))
- 0.3                              
- -------
- 0.3 + S0.04</P>
- </P>
+<P>Trnasfer Function(H(S))</P>
+<P> 0.3   </P>                           
+<P> -------</P>
+ <P>0.3 + S0.04</P>
+ 
                                 
 Input x(t) = u(t)  
 X(S)  = 1/S
