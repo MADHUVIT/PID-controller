@@ -14,6 +14,6 @@ Y(S) =  0.3/(0.3+0.04S)S
 
 y(t) = [1-exp(-7.5)t]u(t)
 
-<img src="Open loop model.PNG" alt="Open loop model" width="500" height="600">
+<img src="Open loop model.PNG" alt="Open loop model">
 </p>
 
